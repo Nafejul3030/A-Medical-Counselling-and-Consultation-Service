@@ -1,1 +1,3 @@
 # A-Medical-Counselling-and-Consultation-Service
+
+Health Department of Synesis IT provides medical and health services to the subscribers of Banglalink, Telitalk, Airtel and previously Citycell by 24 hours a day through mobile phone simply by dialing the number 789 from any mobile, from any part of the country. This call center system is designed in a very highly scalable and secured way. Subscribers can get health advice and medical services directly from doctors. Along with direct medical advice, Health tips on SMS there are also available. This makes the call center highly flexible for the callers.
